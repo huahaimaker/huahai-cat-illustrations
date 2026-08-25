@@ -16,6 +16,7 @@ metadata:
 ## 参考路由
 
 - 规划配图时，读 [references/visual-dna.md](references/visual-dna.md) 和 [references/composition-patterns.md](references/composition-patterns.md)。
+- 用户要求参考案例、随机主题、批量样片，或构思物理隐喻遇到困难时，按需读 [examples/case-library.md](examples/case-library.md)。只借鉴“抽象观点如何变成角色动作”，不得复刻已有物件、构图和标注。
 - 生成或编辑图片前，必须读 [references/character-ip.md](references/character-ip.md) 和 [references/prompt-template.md](references/prompt-template.md)，并把 [assets/huahai-cat-character-sheet.png](assets/huahai-cat-character-sheet.png) 作为角色身份参考图传给图像工具。
 - 生成后必须按 [references/qa-checklist.md](references/qa-checklist.md) 检查。
 - 角色三视图只定义身份，不定义成品的橙色背景、排版或动作。

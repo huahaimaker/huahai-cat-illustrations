@@ -11,3 +11,5 @@ Original project and author links:
 - Website: <https://www.ianneo.xyz/opc>
 
 The recurring Huahai Cat character, its character sheet, and the Huahai-specific identity system are separate from the original Xiaohei character.
+
+Huahai Cat Illustrations project author: **花海** · VX: `SeaMinnie`.
