@@ -1,6 +1,6 @@
 interface:
-  display_name: "德文猫正文配图"
-  short_description: "用德文猫 IP 为中文文章生成清爽、有认知锚点的正文配图"
-  default_prompt: "Use $huahai-cat-illustrations 为这篇中文文章设计并生成德文猫 IP 正文配图。"
+  display_name: "德文猫 IP 插画"
+  short_description: "生成德文猫正文配图、动作表情与生活学习运动场景"
+  default_prompt: "Use $huahai-cat-illustrations 为这份内容选择正确的德文猫角色参考，并生成正文配图或 IP 动作素材。"
 policy:
   allow_implicit_invocation: true

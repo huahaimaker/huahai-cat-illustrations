@@ -20,5 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license does not apply to `assets/devon-cat-character-sheet.png` or the
-images in `examples/images/`. See `ASSET-LICENSE.md` for those assets.
+This license does not apply to the `assets/devon-cat-*.png` character assets or
+the images in `examples/images/`. See `ASSET-LICENSE.md` for those assets.
