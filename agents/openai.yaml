@@ -1,6 +1,7 @@
 interface:
   display_name: "德文猫 IP 插画"
-  short_description: "生成德文猫正文配图、动作表情与生活学习运动场景"
-  default_prompt: "Use $huahai-cat-illustrations 为这份内容选择正确的德文猫角色参考，并生成正文配图或 IP 动作素材。"
+  short_description: "生成德文猫小红书封面、公众号配图与多造型 IP 素材"
+  brand_color: "#405A45"
+  default_prompt: "Use $huahai-cat-illustrations 为这份内容选择平台尺寸和不同德文猫造型，并生成小红书封面、公众号配图或 IP 素材。"
 policy:
   allow_implicit_invocation: true

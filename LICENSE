@@ -21,4 +21,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 This license does not apply to the `assets/devon-cat-*.png` character assets or
-the images in `examples/images/`. See `ASSET-LICENSE.md` for those assets.
+the images under `examples/`. See `ASSET-LICENSE.md` for those assets.
