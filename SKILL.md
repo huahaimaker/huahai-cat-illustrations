@@ -1,23 +1,23 @@
 ---
 name: huahai-cat-illustrations
-description: 为中文文章、帖子、博客、Notion 或 Obsidian 正文设计和生成“花海猫”IP 配图；适用于用户要求角色正文配图、文章插图、配图策略、shot list、角色一致性改图或去标题。不要用于通用猫咪图片、写实摄影、封面 KV 或无关的视觉任务。
+description: 为中文文章、帖子、博客、Notion 或 Obsidian 正文设计和生成“德文猫”IP 配图；适用于用户要求角色正文配图、文章插图、配图策略、shot list、角色一致性改图或去标题。不要用于通用猫咪图片、写实摄影、封面 KV 或无关的视觉任务。
 metadata:
-  short-description: 用花海猫 IP 生成中文正文配图
+  short-description: 用德文猫 IP 生成中文正文配图
 ---
 
-# 花海猫 IP 正文配图
+# 德文猫 IP 正文配图
 
 ## 核心定位
 
-把中文内容中的关键判断、流程、状态和隐喻，变成有“花海猫”参与的 16:9 横版正文配图。目标是帮助读者快速理解一个认知动作，不是单纯展示角色，也不是制作 PPT 信息图或角色海报。
+把中文内容中的关键判断、流程、状态和隐喻，变成有“德文猫”参与的 16:9 横版正文配图。目标是帮助读者快速理解一个认知动作，不是单纯展示角色，也不是制作 PPT 信息图或角色海报。
 
-“花海猫”是奶白色拟人猫角色：超大尖耳、深蓝大眼、绿色棒球夹克、卡其工装裤、绿白运动鞋、黑色斜挎包和卷曲长尾。角色必须参与核心动作，不能只是站在画面边缘。
+“德文猫”是奶白色拟人猫角色：超大尖耳、深蓝大眼、绿色棒球夹克、卡其工装裤、绿白运动鞋、黑色斜挎包和卷曲长尾。角色必须参与核心动作，不能只是站在画面边缘。
 
 ## 参考路由
 
 - 规划配图时，读 [references/visual-dna.md](references/visual-dna.md) 和 [references/composition-patterns.md](references/composition-patterns.md)。
 - 用户要求参考案例、随机主题、批量样片，或构思物理隐喻遇到困难时，按需读 [examples/case-library.md](examples/case-library.md)。只借鉴“抽象观点如何变成角色动作”，不得复刻已有物件、构图和标注。
-- 生成或编辑图片前，必须读 [references/character-ip.md](references/character-ip.md) 和 [references/prompt-template.md](references/prompt-template.md)，并把 [assets/huahai-cat-character-sheet.png](assets/huahai-cat-character-sheet.png) 作为角色身份参考图传给图像工具。
+- 生成或编辑图片前，必须读 [references/character-ip.md](references/character-ip.md) 和 [references/prompt-template.md](references/prompt-template.md)，并把 [assets/devon-cat-character-sheet.png](assets/devon-cat-character-sheet.png) 作为角色身份参考图传给图像工具。
 - 生成后必须按 [references/qa-checklist.md](references/qa-checklist.md) 检查。
 - 角色三视图只定义身份，不定义成品的橙色背景、排版或动作。
 
@@ -30,7 +30,7 @@ metadata:
 - 放置段落或认知锚点
 - 核心意思
 - 隐喻与构图类型
-- 花海猫承担的动作
+- 德文猫承担的动作
 - 主要物件
 - 3–6 个建议中文标注
 
@@ -51,16 +51,16 @@ metadata:
 1. 阅读正文、文件、链接或截图，提炼核心观点与认知转折。
 2. 判断哪些段落需要视觉解释，哪些只适合保留文字。
 3. 每张图只选择一个核心结构；从当前内容重新发明物理隐喻。
-4. 让花海猫以探索、整理、搭建、验证、连接或记录等动作推动结构运转。
+4. 让德文猫以探索、整理、搭建、验证、连接或记录等动作推动结构运转。
 5. 使用角色参考图逐张生成，保持身份与服装一致。
 6. 检查角色一致性、构图、留白、文字、比例与参考图污染；不合格则局部编辑或重生成。
-7. 在用户 workspace 内交付时，保存到 `assets/<article-slug>-huahai-cat/`，按 `01-topic-name.png` 顺序命名；保留原始生成文件，不覆盖旧资产，除非用户明确要求替换。
+7. 在用户 workspace 内交付时，保存到 `assets/<article-slug>-devon-cat/`，按 `01-topic-name.png` 顺序命名；保留原始生成文件，不覆盖旧资产，除非用户明确要求替换。
 8. 如果目标是 workspace 内的 Markdown/Obsidian 正文，并且用户要求完成配图交付，把相对 Markdown 图片链接插入对应认知锚点后，再核对链接和本地文件。
 
 ## 不可违背的约束
 
 - 默认 16:9 横版，纯白或近纯白背景，大量留白。
-- 花海猫保留奶白毛色、尖耳、蓝眼、绿色夹克、卡其工装裤、绿白鞋、黑色斜挎包和卷尾；允许因视角遮挡，但不能随意改色、换物种或换服装。
+- 德文猫保留奶白毛色、尖耳、蓝眼、绿色夹克、卡其工装裤、绿白鞋、黑色斜挎包和卷尾；允许因视角遮挡，但不能随意改色、换物种或换服装。
 - 角色承担核心动作；若删掉角色，隐喻仍完整成立，就要重做。
 - 一张图只讲一个核心结构。
 - 可爱但不幼儿化；有亲和力但不是贴纸、表情包或吉祥物海报。

@@ -1,34 +1,36 @@
-# Huahai Cat Illustrations
+# Devon Cat Illustrations｜德文猫 IP 正文配图
 
-> 把中文文章里的判断、流程、状态和隐喻，变成一张张由「花海猫」亲自推动的白底手绘正文配图。
+> 把中文文章里的判断、流程、状态和隐喻，变成一张张由「德文猫」亲自推动的白底手绘正文配图。
 >
-> 16:9 横版 · 花海猫 IP · 彩色手绘 · 认知隐喻 · Codex Skill
+> 16:9 横版 · 德文猫 IP · 彩色手绘 · 认知隐喻 · Codex Skill
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-405A45)](SKILL.md)
 [![Skill License](https://img.shields.io/badge/Skill%20Docs-MIT-F2A51A)](LICENSE)
-[![Character IP](https://img.shields.io/badge/Huahai%20Cat-All%20Rights%20Reserved-173B5E)](ASSET-LICENSE.md)
+[![Character IP](https://img.shields.io/badge/Devon%20Cat-All%20Rights%20Reserved-173B5E)](ASSET-LICENSE.md)
 
 ---
 
 ## 这个仓库是什么
 
-**Huahai Cat Illustrations** 是一个为中文内容设计的 Agent Skill。它会先理解文章里的认知锚点，再把其中一个判断、流程、结构、状态或隐喻，转换成一张有记忆点的 16:9 横版正文配图。
+**Devon Cat Illustrations（德文猫 IP 正文配图）** 是一个为中文内容设计的 Agent Skill。它会先理解文章里的认知锚点，再把其中一个判断、流程、结构、状态或隐喻，转换成一张有记忆点的 16:9 横版正文配图。
 
-它不是“随便画一只猫”，也不是给旧插画简单换皮。花海猫会在画面里亲自筛选、搭建、测量、连接、记录或验证，让读者一眼看见文章中真正发生的认知动作。
+它不是“随便画一只猫”，也不是给旧插画简单换皮。德文猫会在画面里亲自筛选、搭建、测量、连接、记录或验证，让读者一眼看见文章中真正发生的认知动作。
 
-一句话：**让花海猫把抽象知识做给读者看。**
+一句话：**让德文猫把抽象知识做给读者看。**
 
 ---
 
-## 花海猫是谁
+## 德文猫是谁
 
-花海猫是一只好奇、会动手、愿意探索和验证的内容伙伴：奶白色毛发、超大尖耳、深蓝大眼、森林绿棒球夹克、卡其工装裤、绿白运动鞋、黑色斜挎包和卷曲长尾。
+德文猫是一只好奇、会动手、愿意探索和验证的内容伙伴：奶白色毛发、超大尖耳、深蓝大眼、森林绿棒球夹克、卡其工装裤、绿白运动鞋、黑色斜挎包和卷曲长尾。
+
+这里的「德文猫」不是泛指普通猫咪图片，而是以上述造型、服装与配色为身份基准的个人 IP 形象。
 
 <p align="center">
-  <img src="assets/huahai-cat-character-sheet.png" alt="花海猫角色三视图" width="900">
+  <img src="assets/devon-cat-character-sheet.png" alt="德文猫角色三视图" width="900">
 </p>
 
-角色三视图只用来定义“花海猫是谁”。生成正文配图时会主动忽略橙色背景、三视图排版和 `FRONT / SIDE / BACK` 等设定稿文字。
+角色三视图只用来定义“德文猫是谁”。生成正文配图时会主动忽略橙色背景、三视图排版和 `FRONT / SIDE / BACK` 等设定稿文字。
 
 ---
 
@@ -37,7 +39,7 @@
 - 阅读中文文章、Markdown、帖子、博客、Notion 或 Obsidian 内容。
 - 找出真正值得配图的认知锚点，不按段落机械平均分配。
 - 先输出 1–9 张 shot list，再生成，或按用户要求直接出图。
-- 为每张图重新设计物理隐喻，让花海猫承担核心动作。
+- 为每张图重新设计物理隐喻，让德文猫承担核心动作。
 - 通过内置角色三视图约束角色身份、服装和配色。
 - 修正角色漂移、错字、多余肢体、参考图背景污染和“角色只是装饰”等问题。
 - 保存 PNG 到文章资产目录，并按需插入 Markdown / Obsidian 相对链接。
@@ -46,7 +48,7 @@
 
 - 16:9 横版正文配图。
 - 一篇文章的 4–8 张配图规划或成图。
-- 每张图的认知锚点、核心意思、结构类型、花海猫动作和短标注建议。
+- 每张图的认知锚点、核心意思、结构类型、德文猫动作和短标注建议。
 - 独立 PNG 文件，不把多张图拼成一张。
 
 默认不输出：
@@ -79,7 +81,7 @@
 ## 视觉语言
 
 - **白底留白：** 纯白或近纯白背景，至少约 30% 安静留白。
-- **角色驱动：** 花海猫必须完成关键动作，不能站在旁边摆拍。
+- **角色驱动：** 德文猫必须完成关键动作，不能站在旁边摆拍。
 - **彩色手绘：** 轻微自然抖动的线稿，保留角色完整有限配色。
 - **克制品牌色：** 奶白、森林绿、卡其、深蓝与暖橙为主。
 - **一图一事：** 每张只解释一个判断、动作、结构、状态或隐喻。
@@ -97,24 +99,24 @@
     <td width="50%">
       <img src="examples/images/01-information-filter.png" alt="信息滤网">
       <br><strong>信息滤网</strong><br>
-      花海猫转动筛选机，把噪声从信息流中滤掉，只留下有效信号。
+      德文猫转动筛选机，把噪声从信息流中滤掉，只留下有效信号。
     </td>
     <td width="50%">
       <img src="examples/images/02-small-test.png" alt="先做小实验">
       <br><strong>先做小实验</strong><br>
-      花海猫把宏大计划折成小船，先下水验证，再根据结果调整方向。
+      德文猫把宏大计划折成小船，先下水验证，再根据结果调整方向。
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="examples/images/03-compounding-rope.png" alt="持续积累形成复利">
       <br><strong>复利绳索</strong><br>
-      花海猫每天补上一根细线，让微小行动逐渐拧成能拉动结果的粗绳。
+      德文猫每天补上一根细线，让微小行动逐渐拧成能拉动结果的粗绳。
     </td>
     <td width="50%">
       <img src="examples/images/04-human-ai-steering.png" alt="AI 是风，人掌舵">
       <br><strong>AI 是风，人来掌舵</strong><br>
-      AI 提供风力，花海猫负责看罗盘、划桨并决定真正的方向。
+      AI 提供风力，德文猫负责看罗盘、划桨并决定真正的方向。
     </td>
   </tr>
 </table>
@@ -123,7 +125,7 @@
 
 ## 案例库
 
-仓库内置了一套可直接复用的 [花海猫案例库](examples/case-library.md)。案例覆盖内容创作、产品验证、学习成长、信任建立与个人系统等高频主题。
+仓库内置了一套可直接复用的 [德文猫案例库](examples/case-library.md)。案例覆盖内容创作、产品验证、学习成长、信任建立与个人系统等高频主题。
 
 | 组别 | 案例 | 适合表达 |
 |---|---|---|
@@ -136,7 +138,7 @@
 
 - 适用观点
 - 核心物理隐喻
-- 花海猫承担的动作
+- 德文猫承担的动作
 - 推荐构图与中文短标注
 - 可直接复制给 Skill 的调用指令
 
@@ -172,7 +174,7 @@ git pull
 ### 直接生成正文配图
 
 ```text
-Use $huahai-cat-illustrations 为下面这篇中文文章设计并生成 4 张花海猫正文配图。
+Use $huahai-cat-illustrations 为下面这篇中文文章设计并生成 4 张德文猫正文配图。
 要求：16:9 横版、白底彩色手绘、一张图只解释一个核心认知。
 
 <粘贴文章>
@@ -183,7 +185,7 @@ Use $huahai-cat-illustrations 为下面这篇中文文章设计并生成 4 张�
 ```text
 Use $huahai-cat-illustrations 先不要生图。
 请分析下面这篇文章哪里真正值得配图，输出 5 张左右的 shot list。
-每张写清放置段落、核心意思、物理隐喻、花海猫动作和建议中文短标注。
+每张写清放置段落、核心意思、物理隐喻、德文猫动作和建议中文短标注。
 
 <粘贴文章>
 ```
@@ -195,20 +197,20 @@ Use $huahai-cat-illustrations 为这个观点生成一张正文配图：
 
 “不要先做一艘大船，先折一只纸船下水。”
 
-让花海猫亲自完成验证动作，不要做成 PPT 流程图。
+让德文猫亲自完成验证动作，不要做成 PPT 流程图。
 ```
 
 ### 生成并插入 Obsidian 文章
 
 ```text
-Use $huahai-cat-illustrations 为这篇 Obsidian 文章生成 4 张花海猫正文配图。
+Use $huahai-cat-illustrations 为这篇 Obsidian 文章生成 4 张德文猫正文配图。
 把图片保存到文章对应的 assets 目录，并将相对 Markdown 图片链接插入合适的认知锚点后。
 ```
 
 ### 修正角色或去掉错字
 
 ```text
-Use $huahai-cat-illustrations 编辑这张图：保持当前构图，只修正花海猫服装和多余尾巴，并去掉错误文字“有效信号号”。
+Use $huahai-cat-illustrations 编辑这张图：保持当前构图，只修正德文猫服装和多余尾巴，并去掉错误文字“有效信号号”。
 ```
 
 更多调用方式见 [Prompt 示例库](examples/prompts.md)。
@@ -226,7 +228,7 @@ Use $huahai-cat-illustrations 编辑这张图：保持当前构图，只修正�
     ↓
 为每张图重新发明一个物理隐喻
     ↓
-让花海猫承担改变结果的关键动作
+让德文猫承担改变结果的关键动作
     ↓
 附带角色三视图逐张生成
     ↓
@@ -235,23 +237,20 @@ Use $huahai-cat-illustrations 编辑这张图：保持当前构图，只修正�
 保存 PNG，并按需插入正文
 ```
 
-默认先确保“读者能看懂什么”，再考虑画面是否可爱。若删掉花海猫后整张图仍然完全成立，说明角色只是装饰，需要重新设计动作。
+默认先确保“读者能看懂什么”，再考虑画面是否可爱。若删掉德文猫后整张图仍然完全成立，说明角色只是装饰，需要重新设计动作。
 
 ---
 
-## 目录结构
+## 核心目录结构
 
 ```text
 .
 ├── SKILL.md
 ├── README.md
-├── LICENSE
-├── ASSET-LICENSE.md
-├── NOTICE.md
 ├── agents/
 │   └── openai.yaml
 ├── assets/
-│   └── huahai-cat-character-sheet.png
+│   └── devon-cat-character-sheet.png
 ├── examples/
 │   ├── case-library.md
 │   ├── prompts.md
@@ -279,15 +278,7 @@ Use $huahai-cat-illustrations 编辑这张图：保持当前构图，只修正�
 - 每张图只讲一个核心结构，不要把文章做成说明书。
 - 示例图只用于校准，不要连续复用同一种物件和构图。
 - AI 图像模型仍可能出现错字、肢体异常或角色漂移，交付前必须实际预览。
-- 公开使用、二次分发或商业使用花海猫角色资产前，请阅读 [角色资产许可](ASSET-LICENSE.md)。
-
----
-
-## 致谢与来源
-
-本项目的文章配图工作流改编自 Ian 的开源项目 [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)，并参考了 [huahaimaker/ian-xiaohei-illustrations](https://github.com/huahaimaker/ian-xiaohei-illustrations) 的项目展示结构。
-
-Huahai Cat Illustrations 已围绕花海猫角色身份、彩色视觉语言、构图模式、提示词模板、QA 规则和原创案例库重新设计。完整上游署名与许可见 [NOTICE.md](NOTICE.md) 和 [LICENSE-IAN](LICENSE-IAN)。
+- 公开使用、二次分发或商业使用德文猫角色资产前，请阅读 [角色资产许可](ASSET-LICENSE.md)。
 
 ---
 
@@ -300,13 +291,13 @@ Huahai Cat Illustrations 已围绕花海猫角色身份、彩色视觉语言、�
 - GitHub: [huahaimaker](https://github.com/huahaimaker)
 - 微信（VX）：`SeaMinnie`
 
-如果你也在研究 AI 内容创作、个人 IP 或 Agent Skills，欢迎交流。添加微信请备注「花海猫 Skill」。
+如果你也在研究 AI 内容创作、个人 IP 或 Agent Skills，欢迎交流。添加微信请备注「德文猫 Skill」。
 
 ---
 
 ## License
 
-Skill 指令和文档采用 [MIT License](LICENSE)。花海猫角色设定图与案例图片不包含在 MIT 授权范围内，具体见 [ASSET-LICENSE.md](ASSET-LICENSE.md)。
+Skill 指令和文档采用 [MIT License](LICENSE)。德文猫角色设定图与案例图片不包含在 MIT 授权范围内，具体见 [ASSET-LICENSE.md](ASSET-LICENSE.md)。
 
 ---
 

@@ -1,10 +1,10 @@
-# Huahai Cat Character Asset License
+# Devon Cat Character Asset License
 
 Copyright (c) 2026 花海. All rights reserved.
 
-`assets/huahai-cat-character-sheet.png` is included so this Skill can preserve the Huahai Cat character identity during image generation and editing.
+`assets/devon-cat-character-sheet.png` is included so this Skill can preserve the Devon Cat character identity during image generation and editing.
 
-The images in `examples/images/` are included as visual previews of the Huahai Cat illustration system. They are not included in the repository's MIT License.
+The images in `examples/images/` are included as visual previews of the Devon Cat illustration system. They are not included in the repository's MIT License.
 
 The asset may be downloaded and used as a reference image while running this Skill. It may not be extracted, resold, relicensed, used as an unrelated brand or character, or redistributed separately from this Skill without the copyright holder's permission.
 

@@ -1,15 +1,7 @@
-# Notice
+# Third-Party Notices
 
-Huahai Cat Illustrations was redesigned for the Huahai character IP and content workflow.
+Portions of the article-illustration workflow are derived from Ian Xiaohei Illustrations under the MIT License. The required upstream copyright and permission notice is preserved in `LICENSE-IAN`.
 
-Its article-illustration workflow was adapted from **Ian Xiaohei Illustrations**, an AI-agent skill created by Ian and released under the MIT License. This derived package does not include the Xiaohei character or Ian's bundled example images.
+This package does not include the Xiaohei character or its bundled example images. The Devon Cat character, character sheet, identity system, and example images are a separate IP system.
 
-Original project and author links:
-
-- GitHub: <https://github.com/helloianneo/ian-xiaohei-illustrations>
-- Author: Ian / <https://github.com/helloianneo>
-- Website: <https://www.ianneo.xyz/opc>
-
-The recurring Huahai Cat character, its character sheet, and the Huahai-specific identity system are separate from the original Xiaohei character.
-
-Huahai Cat Illustrations project author: **花海** · VX: `SeaMinnie`.
+Devon Cat Illustrations project author: **花海** · VX: `SeaMinnie`.
